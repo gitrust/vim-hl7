@@ -1,0 +1,22 @@
+MSH|^~\&|KoK transfer|AtM server|||20180210094436||ORU^R01^ORU_R01|AAH9938388|P|2.7||||||8859/1
+PID|||1288332^^^^MR^VN||John^Doe|||M
+PV1||I|ZNN^^N3F||||||||||||||||123456
+OBR||||29274-8^LN|||20180219094252
+OBX|1|NM|^HR^L^^Resting Heart Rate|0|60|/min^1/min^UCUM|50-140||||F
+OBX|2|NM|^PP^L^^Peripheral Pulse|0|59|/min^1/min^UCUM|50-140||||F
+OBX|3|NM|^SPO2^L^^Capillary Oxygen Saturation|0|977|%^%^UCUM|50-140||||F
+OBX|4|NM|^PI^L^^Capillary Filling|0|10000|%^%^UCUM|50-140||||F
+OBX|5|NM|^NIBP_SYS^L^^Non-Invasive Systolic Arterial Pressure|0|123|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|6|NM|^NIBP_DIA^L^^Non-Invasive Diastolic Arterial Pressure|0|83|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|7|NM|^NIBP_MAD^L^^Non-Invasive Mean Arterial Pressure|0|96|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|8|NM|^IBP_SYS^L^^Invasive Systolic Arterial Pressure [P1]|0|220|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|9|NM|^IBP_DIA^L^^Invasive Diastolic Arterial Pressure [P1]|0|79|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|10|NM|^IBP_MAD^L^^Mean Arterial Pressure [P1]|0|97|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|11|NM|^IBP_SYS^L^^Systolic Arterial Pressure [P2]|0|119|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|12|NM|^IBP_DIA^L^^Diastolic Arterial Pressure [P2]|0|79|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|13|NM|^IBP_MAD^L^^Mean Arterial Pressure [P2]|0|98|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|14|NM|^IBP_SYS^L^^Systolic Arterial Pressure [P3]|0|118|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|15|NM|^IBP_DIA^L^^Diastolic Arterial Pressure [P3]|0|80|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|16|NM|^IBP_MAD^L^^Mean Arterial Pressure [P3]|0|97|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|17|NM|^IBP_SYS^L^^Systolic Arterial Pressure [P4]|0|119|mm[Hg]^mmHg^UCUM|50-140||||F
+OBX|18|NM|^IBP_DIA^L^^Diastolic Arterial Pressure [P4]|0|79|mm[Hg]^mmHg^UCUM|50-140||||F
