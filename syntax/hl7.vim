@@ -3,12 +3,14 @@
 " Maintainer:   gitrust
 " Filename:     *.hl7
 
-"if exists("b:current_syntax")
-  "finish
-"endif
+if exists('b:current_syntax') | finish | endif
 
-syn match Special '|'
-syn match comment '\~'
-syn match string '&'
-syn match Special '\^'
-syn match Identifier '^[A-Z]*[0-1]*'
+syntax match fieldSeparator '|'
+syntax match delimiters '[~&^\\]'
+syntax match segmentType '^[A-Z]*[0-1]*'
+
+hi def link fieldSeparator Delimiter
+hi def link delimiters Operator
+hi def link segmentType Identifier
+
+let b:current_syntax = 'hl7'
