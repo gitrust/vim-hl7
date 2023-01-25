@@ -14,8 +14,8 @@ For an example HL7 file see in the `msg` folder
 
 Follow steps below to install VIM configuration in your HOME folder
 
-- Put filetype detection configuration `ftdetect/hl7.vim` to `~/.vim/ftdetect/`
-- Put syntax configuration file `syntax/hl7.vim` to `~/.vim/syntax/`
+- Copy filetype detection configuration file from `ftdetect/hl7.vim` to `~/.vim/ftdetect/`
+- Copy syntax configuration file from `syntax/hl7.vim` to `~/.vim/syntax/`
 
 ## Reference
 
